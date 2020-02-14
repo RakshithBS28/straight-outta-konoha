@@ -1,0 +1,44 @@
+{
+  "id": 1,
+  "Name": "Xiaomi Mi A3",
+  "price": 15499,
+  "img": "https://images-eu.ssl-images-amazon.com/images/I/41On5Oa+6lL._AC_US160_FMwebp_QL70_.jpg",
+  "description": "Xiaomi's Indian debut has been causing all kinds of headaches for other smartphone companies. The Mi 3 offers an astonishing list of features and specifications considering its low price. The performance easily eclipses that of any other phone in its price band, and buyers who are lucky enough to snag one of the very few up for sale will be quite happy from that standpoint. The camera isn't all that great, and there's no microSD slot. The MiUI Android skin also takes some getting used to. If your primary concern is value for money, this is the phone to get, hands down.",
+  "stock": 8
+}, {
+  "id": 2,
+  "Name": "One Plus 7 Pro",
+  "price": 42999,
+  "img": "https://images-eu.ssl-images-amazon.com/images/I/41ksesyGr+L._AC_US160_FMwebp_QL70_.jpg",
+  "description" : "It has an extraordinarily generous 6.4-inch AMOLED display, a fast in-screen fingerprint scanner, blazingly quick flagship internals, and a quietly restrained operating system that only adds features that are genuinely useful",
+  "stock": 5
+}, {
+  "id": 3,
+  "Name": "One Plus 7T",
+  "price": 34999,
+  "img": "https://images-eu.ssl-images-amazon.com/images/I/41CK68JShbL._AC_US160_FMwebp_QL70_.jpg",
+  "description": "It has an extraordinarily generous 6.4-inch AMOLED display, a fast in-screen fingerprint scanner, blazingly quick flagship internals, and a quietly restrained operating system that only adds features that are genuinely useful",
+  "stock": 17
+}, {
+  "id": 4,
+  "Name": "Galaxy M30",
+  "price": 13999,
+  "img": "https://images-eu.ssl-images-amazon.com/images/I/414U96WCOEL._AC_US160_FMwebp_QL70_.jpg",
+  "description": "The Galaxy M30 sports a big 6.4-inch Super AMOLED display with a full-HD+ resolution (1080x2340 pixels). The panel is crisp, has good viewing angles, and is also legible when outdoors.",
+  "stock": 10
+}, {
+  "id": 5,
+  "Name": "Vivo U10",
+  "price": 8990,
+  "img":"https://images-na.ssl-images-amazon.com/images/I/5146hJBeZqL._AC_UL160_SR160,160_.jpg",
+  "description": "Vivo U10 vaunts an 89% screen-to-body ratio. Like any other budget phone, this one does have thick chin and noticeable bezels on other sides.",
+  "stock": 9
+},
+{
+  "id": 6,
+  "Name": "Nokia 6.2",
+  "price": 13399,
+  "img":"https://images-eu.ssl-images-amazon.com/images/I/41DSzpsP58L._AC_US160_FMwebp_QL70_.jpg",
+  "description": "Nokia 6.2 smartphone was launched on 5th September 2019. The phone comes with a 6.30-inch touchscreen display. Nokia 6.2 is powered by an octa-core Qualcomm Snapdragon 636 processor. It comes with 3GB of RAM.",
+  "stock" : 15
+}
