@@ -1,0 +1,38 @@
+{
+  "id": 1,
+  "Name": "Boonik Shoes Latest Leather ",
+  "price": 1223.66,
+  "img": "https://m.media-amazon.com/images/I/41MfgsBk73L._AC_UL320_ML3_.jpg",
+   "description": "Flaunt with these stylish and unique red casual shoes as per the latest fashion trend from the house of Shozie, Brand known for its wide range of men's casual, formal, sports/running, ethnic, party wear shoes. This pair is having classic style which will add glamour to your look. These shoes go well with your casual wear. Team it with your casual attire to complete your perfect casual or party look.",
+   "stock": 11
+
+
+}, {
+  "id": 2,
+  "Name": "Anolog Black watch",
+  "price": 3999.99,
+  "img": "https://m.media-amazon.com/images/I/91SzBi0-g2L._AC_UL320_ML3_.jpg",
+  "description": "A collection of chic and stylish timepieces crafted for the metropolitan men and women, the Flute Workwear range embraces the elegance and sophistication of simplistic yet stylish design. Renowned for it's excellence in watchmaking craftsmanship and design expertise, this range of timepieces from Flute makes for the perfect accessory for professional dressing.",
+  "stock": 7
+}, {
+  "id": 3,
+  "Name": "Denim Slim Fit  Shirt",
+  "price": 500,
+  "img": "https://m.media-amazon.com/images/I/615-CzW-YUL._AC_UL320_ML3_.jpg",
+ "description": "Inkast Denim Co. offers a mix of classic as well as contemporary denim styles in a variety of washes. Designed for all casual occasions, Inkast offers the authentic denim look with high emphasis on quality, craftsmanship and fit.",
+ "stock": 3
+}, {
+  "id": 4,
+  "Name": "Men's Long Sleev Pullover ",
+  "price": 800,
+  "img": "https://m.media-amazon.com/images/I/61qMQQkxeIL._AC_UL320_ML3_.jpg",
+  "description": "Stylish and fashion design make you more attractive. Perfect Match with your favorite shorts,leggings, black slacks, denim jeans, etc",
+  "stock": 10
+}, {
+  "id": 5,
+  "Name": "Men's Comfortable Mesh Sports shoe",
+  "price": 2500,
+  "img": "https://m.media-amazon.com/images/I/81zQ1P1thsL._AC_UL320_ML3_.jpg",
+   "description": "Spruce up your casual footwear collection by grabbing this pair of olive Sneakers for men.Crafted from a rich quality material, this pair of floater Sneakers promises to keep your feet at ease all day long. This pair of floater Sneakers is durable and is sure to serve you for a long time.",
+   "stock": 9
+}
