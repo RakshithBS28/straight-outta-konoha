@@ -1,5 +1,5 @@
 {
-fashion:
+"fashion":
          {
           "id": 1,
           "Name": "Boonik Shoes Latest Leather ",
@@ -37,7 +37,7 @@ fashion:
    "stock": 9
 }
 
-electronics:
+"electronics":
 {
   "id": 1,
   "Name": "Mi Smart Band 4 (Black)",
@@ -75,7 +75,7 @@ electronics:
   "stock": 9
 }
 
-mobiles:
+"mobiles":
  {
   "id": 1,
   "Name": "Xiaomi Mi A3",
