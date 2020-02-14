@@ -1,5 +1,5 @@
 
-fashion:{
+fashion:
          {
           "id": 1,
           "Name": "Boonik Shoes Latest Leather ",
@@ -38,7 +38,7 @@ fashion:{
 }
 
 electronics:
-{{
+{
   "id": 1,
   "Name": "Mi Smart Band 4 (Black)",
   "price": 4000,
@@ -73,10 +73,10 @@ electronics:
   "img": "https://images-na.ssl-images-amazon.com/images/I/61pHXsALAOL._AC_UL200_SR200,200_.jpg",
   "description": "It's the small, swift way to save and transfer your digital content from computer to computer, or take it on-the-go. Simply store your pictures, music and other fun files onto the sleek Cruzer Blade USB flash drive and start sharing with your family and friends. You can also protect files on your USB flash drive from unauthorized access with the SanDisk Secure Access software and enjoy the added protection of secure online backup (up to 2GB optionally available) offered by YuuWaa.",
   "stock": 9
-}}
+}
 
 mobiles:
- {{
+ {
   "id": 1,
   "Name": "Xiaomi Mi A3",
   "price": 15499,
@@ -119,7 +119,7 @@ mobiles:
   "img":"https://images-eu.ssl-images-amazon.com/images/I/41DSzpsP58L._AC_US160_FMwebp_QL70_.jpg",
   "description": "Nokia 6.2 smartphone was launched on 5th September 2019. The phone comes with a 6.30-inch touchscreen display. Nokia 6.2 is powered by an octa-core Qualcomm Snapdragon 636 processor. It comes with 3GB of RAM.",
   "stock" : 15
-}}
+}
 
 
 
