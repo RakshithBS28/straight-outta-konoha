@@ -1,5 +1,5 @@
 {
-"fashion":
+"fashion":[
          {
           "id": 1,
           "Name": "Boonik Shoes Latest Leather ",
@@ -7,14 +7,16 @@
            "img": "https://m.media-amazon.com/images/I/41MfgsBk73L._AC_UL320_ML3_.jpg",
            "description": "Flaunt with these stylish and unique red casual shoes as per the latest fashion trend from the house of Shozie, Brand known for its wide range of men's casual, formal, sports/running, ethnic, party wear shoes. This pair is having classic style which will add glamour to your look. These shoes go well with your casual wear. Team it with your casual attire to complete your perfect casual or party look.",
           "stock": 11
-          }, {
-  "id": 2,
-  "Name": "Anolog Black watch",
-  "price": 3999.99,
-  "img": "https://m.media-amazon.com/images/I/91SzBi0-g2L._AC_UL320_ML3_.jpg",
-  "description": "A collection of chic and stylish timepieces crafted for the metropolitan men and women, the Flute Workwear range embraces the elegance and sophistication of simplistic yet stylish design. Renowned for it's excellence in watchmaking craftsmanship and design expertise, this range of timepieces from Flute makes for the perfect accessory for professional dressing.",
-  "stock": 7
-}, {
+          }
+         {
+          "id": 2,
+          "Name": "Anolog Black watch",
+          "price": 3999.99,
+           "img": "https://m.media-amazon.com/images/I/91SzBi0-g2L._AC_UL320_ML3_.jpg",
+           "description": "A collection of chic and stylish timepieces crafted for the metropolitan men and women, the Flute Workwear range embraces the elegance and sophistication of simplistic yet stylish design. Renowned for it's excellence in watchmaking craftsmanship and design expertise, this range of timepieces from Flute makes for the perfect accessory for professional dressing.",
+            "stock": 7
+          }
+        {
   "id": 3,
   "Name": "Denim Slim Fit  Shirt",
   "price": 500,
@@ -35,9 +37,9 @@
   "img": "https://m.media-amazon.com/images/I/81zQ1P1thsL._AC_UL320_ML3_.jpg",
    "description": "Spruce up your casual footwear collection by grabbing this pair of olive Sneakers for men.Crafted from a rich quality material, this pair of floater Sneakers promises to keep your feet at ease all day long. This pair of floater Sneakers is durable and is sure to serve you for a long time.",
    "stock": 9
-}
+}],
 
-"electronics":
+"electronics":[
 {
   "id": 1,
   "Name": "Mi Smart Band 4 (Black)",
@@ -73,9 +75,9 @@
   "img": "https://images-na.ssl-images-amazon.com/images/I/61pHXsALAOL._AC_UL200_SR200,200_.jpg",
   "description": "It's the small, swift way to save and transfer your digital content from computer to computer, or take it on-the-go. Simply store your pictures, music and other fun files onto the sleek Cruzer Blade USB flash drive and start sharing with your family and friends. You can also protect files on your USB flash drive from unauthorized access with the SanDisk Secure Access software and enjoy the added protection of secure online backup (up to 2GB optionally available) offered by YuuWaa.",
   "stock": 9
-}
+}],
 
-"mobiles":
+"mobiles":[
  {
   "id": 1,
   "Name": "Xiaomi Mi A3",
@@ -119,7 +121,7 @@
   "img":"https://images-eu.ssl-images-amazon.com/images/I/41DSzpsP58L._AC_US160_FMwebp_QL70_.jpg",
   "description": "Nokia 6.2 smartphone was launched on 5th September 2019. The phone comes with a 6.30-inch touchscreen display. Nokia 6.2 is powered by an octa-core Qualcomm Snapdragon 636 processor. It comes with 3GB of RAM.",
   "stock" : 15
-}
+}],
 
 }
 
